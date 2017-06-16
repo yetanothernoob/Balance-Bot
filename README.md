@@ -22,4 +22,4 @@ IN3 - PWM 5
 IN4 - PWM 7
 ENB - PWM 6
 
-For more details refer to the presentation.
+For more details refer to the attached pdf.
